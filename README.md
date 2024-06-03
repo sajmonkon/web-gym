@@ -4,3 +4,5 @@ Nachází se zde informace o suplementech, historii bodybuildingu, soutěže, ko
 PHP kalkulačka BMI
 
 využité programovací jazyky: PHP, JavaScript, HTML, CSS
+
+Odkaz: gymlover.free.nf
