@@ -5,4 +5,4 @@ PHP kalkulačka BMI
 
 využité programovací jazyky: PHP, JavaScript, HTML, CSS
 
-Odkaz: gymlover.free.nf
+Odkaz: http://gymtipss.chytrak.cz:8080/
